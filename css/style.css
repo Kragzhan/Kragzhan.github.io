@@ -1,0 +1,42 @@
+ .navbar-inverse{
+ 	background: yellow;
+ 	color: orange ;
+ }
+
+ .navbar-inverse .navbar-brand{
+ 		font-size: 200% ;
+ 		font-family: 'Comfortaa', cursive;
+ 	color: blue ;
+ 	
+ }
+
+ .navbar-inverse .navbar-nav > li > a{
+ 	font-size: 150%;
+ 	color: darkblue;
+ 	font-family: 'Comfortaa', cursive;
+
+ }
+
+ .vanlig-text {
+ 	font-family: 'Comfortaa', cursive;
+ 	text-align: center;
+ 	font-size: 300%;
+}
+
+.bg-color{
+
+	background-color: cyan;
+
+}
+
+.bg-image{
+
+	background: url("http://blog.nativefoods.com/.a/6a0112796f38d028a401348852eaa4970c-pi");
+
+	background-size: 100%;
+}
+
+.bild {
+
+	text-align: center;
+}
